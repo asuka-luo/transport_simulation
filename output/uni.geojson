@@ -1,0 +1,9020 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6548444,
+          49.8734728
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "TU Darmstadt/Schloss",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8549227,
+          51.3494162
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Universit\u00e4t Kassel",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1232463,
+          51.1173945
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Berufsakademie Nordhessen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6588276,
+          49.8755406
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Papierfabrikation und Mechanische Verfahrenstechnik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658175,
+          49.8751166
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Allgemeine P\u00e4dagogik und Berufsp\u00e4dagogik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6587332,
+          49.8752474
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Papierfabrikation und Mechanische Verfahrenstechnik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6594332,
+          49.8754648
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Psychologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6552588,
+          49.8738057
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "TU Darmstadt/Schloss",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6401291,
+          49.8715465
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochschulrechenzentrum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6316543,
+          49.873832
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Studienkolleg f\u00fcr ausl\u00e4ndische Studierende",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6574065,
+          49.8772519
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "E24",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6802909,
+          49.8694902
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Botanik/Zoologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6409529,
+          49.8669582
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "FB Elektrotechnik und Informationstechnik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8105601,
+          50.8100797
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "HRZ",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8106344,
+          50.8094125
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Fachbereich Mathematik und Informatik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8078907,
+          50.8112092
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Fachbereich Chemie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8092932,
+          50.8116192
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Biomedizinisches Forschungszentrum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8086797,
+          50.8072874
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Fachbereich Biologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6586388,
+          49.8757121
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Druckmaschinen und Druckverfahren",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6926844,
+          50.5768333
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Fachbereich Psychologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7767136,
+          50.8253239
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Studentendorf",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8091789,
+          50.8119479
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Virologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671943,
+          50.5697146
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Pflanzenversuchsanlage",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7702482,
+          50.8048061
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Fachbereich Psychologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6565346,
+          49.8776738
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Chemische Technologie I",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.656253,
+          49.8780638
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Chemische Technologie I",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6558635,
+          49.8785165
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Technikum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6563774,
+          49.8695864
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Datentechnik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6398204,
+          49.8669825
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Patentinformationszentrum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6350905,
+          49.8725375
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "CASED",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7803607,
+          50.8168178
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Evangelisches Studentenwohnheim",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7639282,
+          50.8034889
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Archivschule Marburg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6581041,
+          50.1253343
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Biologische Institute",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8103002,
+          50.8091838
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "WZMW / Struktur- & Technologie- Forschungslabor",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.521087,
+          50.5513922
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Technische Hochschule Mittelhessen (A1)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6564852,
+          50.1152998
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Geschichte der Arabische-Islamischen Wissenschaften",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6553512,
+          50.5663077
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "JLU Fachbereich Medizin - GRIPS",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6461244,
+          50.5989848
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Oberer Hardthof",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9613317,
+          49.9844127
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochschule GEISENHEIM University",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4779124,
+          51.3125562
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Fraunhofer IWES Kassel",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7305947,
+          50.9914713
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hessische Hochschule f\u00fcr Finanzen und Rechtspflege",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.919272,
+          50.8266398
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bieneninstitut Kirchhain",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6867056,
+          50.5652015
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochschule Fulda",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6797946,
+          49.861551
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "AStA",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.634083,
+          50.1735161
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geowissenschaften Uni Frankfurt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6317162,
+          50.1726334
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Chemie Uni Frankfurt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6280216,
+          50.1726771
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Biologie Uni Frankfurt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6807537,
+          50.5855207
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Technische Hochschule Mittelhessen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.632141,
+          50.1743443
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Physik Uni Frankfurt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7714492,
+          50.8145794
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Centrum f\u00fcr Nah- und Mittelost-Studien (CNMS)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7711081,
+          50.8074643
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Philipps-Universit\u00e4t",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6534812,
+          49.8722734
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2477733,
+          50.0711404
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "EBS Law School",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6279846,
+          50.1716692
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Didaktik der Biowissenschaften Goethe Universit\u00e4t Frankfurt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6295895,
+          50.1724122
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Molekulare Biowissenschaften",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7697496,
+          50.8049291
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Bildende Kunst",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7699161,
+          50.804643
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Psychotherapie Ambulanz Marburg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6304925,
+          50.17262
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "HRZ Service Center Riedberg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6307202,
+          50.1727533
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "TGM Technisches Geb\u00e4udemanagement",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6302819,
+          50.1728329
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "TGM Werkst\u00e4tten",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5311371,
+          51.3152872
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Universit\u00e4t Kassel - Fachgebiet Abfall - Technikum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5216714,
+          51.324327
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Universit\u00e4t Kassel - Fachgebiet Siedlungswasserwirtschaft Labor",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6537322,
+          50.6016383
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Landwirtschaftliche Lehr- und Forschungseinrichtung \"Weilburger Grenze\"",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5016345,
+          49.9409909
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Landwirtschaftliche Lehr- und Forschungseinrichtung Gro\u00df-Gerau",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2456998,
+          50.3966555
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Landwirtschaftliche Lehr- und Forschungseinrichtung Gladbacher Hof",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693198,
+          50.5364244
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Landwirtschaftliche Lehr- und Forschungseinrichtung \"Am Rittergut\"",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5217233,
+          51.3243232
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "SiWaWi-Labor",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7689708,
+          50.8109126
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "AG Experimentelle Halbleiterphysik Prof. M. Koch",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8112509,
+          50.8092677
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "AG Experimentelle Halbleiterphysik Prof. M. Koch Ebene C6",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7727085,
+          50.8146842
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Zentrum f\u00fcr Lehrerbildung an der Philipps-Universit\u00e4t Marburg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6951097,
+          50.571306
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Zentrum f\u00fcr fremdsprachliche und berufsfeldorientierte Kompetenzen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782302,
+          50.5875952
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Zentrum f\u00fcr internationale Entwicklungs- und Umweltforschung (ZEU)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6932729,
+          50.5768257
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Gie\u00dfener Zentrum \u00d6stliches Europa (GiZo)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6750682,
+          50.568265
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Laboratorium f\u00fcr Materialforschung (LaMa)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6937012,
+          50.5811952
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Servicezentrum Studium und Pr\u00fcfungen FB02",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6594956,
+          50.5740591
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Pr\u00fcfungsamt FB 10",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6651294,
+          50.5688952
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hessische Lehrkr\u00e4fteakademie - Pr\u00fcfungsstelle Gie\u00dfen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7753775,
+          50.8127673
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Forschungsstelle f\u00fcr Personalschriften",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6792443,
+          50.5843154
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "THM Fachbereich Gesundheit",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676212933587397,
+          50.566728850000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Justus-Liebig-Universit\u00e4t Campusbereich Seltersberg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667410681153846,
+          50.126791
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Johann-Wolfgang-Goethe-Universit\u00e4t Campus Westend",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.630728351530806,
+          50.17232545
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Johann-Wolfgang-Goethe Universit\u00e4t - Campus Riedberg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.657321040557996,
+          49.876529649999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "TU Darmstadt / S1",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.655188188288424,
+          49.8779483
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "TU Darmstadt / S2",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5228599,
+          50.55071285
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Technische Hochschule Mittelhessen (A15)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667037429682455,
+          50.1266906
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Casino",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678557250031197,
+          49.85999895
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Anorganische Chemie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679610603229506,
+          49.8614891
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Mensa Lichtwiese",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678597115906967,
+          49.859301450000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Entsorgungszentrum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67919810423464,
+          49.86024585
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Physikalische Chemie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680194418349865,
+          49.8602318
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Clemens-Sch\u00f6pf-Institut",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681498793754445,
+          49.860285649999994
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Materialwissenschaft",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683652502098802,
+          49.8622704
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Maschinenbauhalle 6",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6415391666803,
+          49.86655925
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "FB Informatik (D15)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63995655191589,
+          49.8666571
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "EiT/Informatik/Rechenzentrum/Bibliothek (D10)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6799863,
+          49.86046255
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Kekul\u00e9-Auditorium",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4889938153432,
+          51.304288150000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Kunsthochschule Kassel",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6817520803618,
+          50.5865722
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A13",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682606397096283,
+          50.58672155
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A12",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681817993957843,
+          50.587098850000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A20",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682872234711088,
+          50.58730765
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A21",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682790753811965,
+          50.5869644
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A11",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683477236184899,
+          50.586992699999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683394447585762,
+          50.5865496
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A15",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684394809721226,
+          50.58626505
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684558653069132,
+          50.5857716
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C14",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.654361867478578,
+          49.879452099999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678285809919668,
+          50.5876258
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Zeughaus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6275798150409,
+          49.873543749999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Evangelische Hochschule Darmstadt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683813639897775,
+          49.86079145
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Maschinenbauhalle 2",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68272169928852,
+          49.861310200000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Maschinenbau Institutsgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.656914150224823,
+          49.8787361
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.474229243398552,
+          51.3113132
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Universit\u00e4t Kassel, Standort Wilhelmsh\u00f6her Allee",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.660364599999994,
+          49.8754747
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "IANUS / Normative Orders (Gelbes Haus)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683623350165508,
+          49.86149625
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Maschinenbauhalle 1",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684798249833293,
+          49.8615274
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Maschinenbauhalle 5",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68523935016431,
+          49.8607947
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Maschinenbauhalle 3",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6816681,
+          49.862585800000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Forschungsgeb\u00e4ude 1",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68101902093655,
+          49.862634400000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Heizkraftwerk",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678500574359504,
+          49.8621091
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bauingenieurwesen Instiutsgeb\u00e4ude 1",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678522175142183,
+          49.8628098
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bauingenieurhalle 1",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67807415,
+          49.86320255
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bauingenieurhalle 2",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678082874861127,
+          49.86293205
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bauingenieurhalle 3",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678089100000001,
+          49.86265895
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bauingenieurhalle 4",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67995137502015,
+          49.86228935
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bauingenieurwesen Instiutsgeb\u00e4ude 2",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67918194962699,
+          49.86239795
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bauingenieurhalle 5",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679942265931228,
+          49.8632283
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Wertstoffzentrum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63200141463568,
+          49.8659268
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "FB Wirtschaft (A10)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.632496201683672,
+          49.8659131
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bistro Haardtring (A11)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.633249300023213,
+          49.86597915
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "FB Bauingenieurwesen (A12)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.633975000000001,
+          49.866543449999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Kunststofftechnik - H\u00f6rs\u00e4le und B\u00fcros (A14)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.633917870869297,
+          49.8662809
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Kunststofftechnik Labor (A13)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63657030856362,
+          49.867534
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "FB Architektur (B10)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.636108695164497,
+          49.86788785
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.636131242529782,
+          49.867284749999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.636610143360617,
+          49.866758000000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Wasserbauhalle (B13)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.637763666227894,
+          49.86628975
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "FB Maschinenbau und Kunststofftechnik (C12)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63895425212991,
+          49.86624755
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.638862434783263,
+          49.86649965
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.638791762115943,
+          49.86674645
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.640494840188857,
+          49.8666571
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "EiT Labore (D11)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64057162418076,
+          49.8671525
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "EiT Hochspannungshalle (D12)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.641142976418806,
+          49.86653735
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "EiT (D16)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.640961956861558,
+          49.8669645
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Lernzentrum (D17)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.640848406377026,
+          49.86731805
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.634137629647284,
+          49.86625795
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochschule Darmstadt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.639005163911971,
+          49.8664978
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochschule Darmstadt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.643613603444816,
+          49.87080795
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "FB Sozialp\u00e4dagogik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6433061,
+          49.87030245
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.656021437661497,
+          49.87829644999999
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Theoriezentrum Kernphysik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677608675434978,
+          50.58777954999999
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Neues Schloss",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80763282425907,
+          50.8042228
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Biochemisch-Pharmakologisches Centrum Marburg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679735736985759,
+          50.5871087
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Botanisches Institut",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.808596656137354,
+          50.8017852
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Botanischer Garten",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.809223717381066,
+          50.8060086
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77991196675788,
+          50.810288299999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Philosophische Fakult\u00e4t",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77011742696325,
+          50.8069945
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Savignyhaus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766096492669618,
+          50.80644445
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "WiWi-2",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766987852770622,
+          50.80698755
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "WiWi-1",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766708428030467,
+          50.807145000000006
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "WiWi-Pavillon",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77087625287977,
+          50.8075999
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Landgrafenhaus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.448964826948867,
+          51.28254855
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Universit\u00e4t Kassel, Heinrich-Plett-Stra\u00dfe",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.666882291165159,
+          50.12715435
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Casino Anbau",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.589751713724258,
+          49.8592414
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "TU Darmstadt / Windkanal",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.666465819723769,
+          50.1282933
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "H\u00f6rsaalzentrum (HZ)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.700469850207528,
+          50.57338935
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "F",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.698622154328525,
+          50.57407605
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.702380118755299,
+          50.5722899
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70208015324324,
+          50.572816
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.701983899999998,
+          50.5725381
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Gew\u00e4chshaus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.700908565749572,
+          50.57248825
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "D",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6949638,
+          50.5769042
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Gie\u00dfener Graduiertenzentrum Kulturwissenschaften",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692836735981714,
+          50.57692915
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693752484676775,
+          50.5766222
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65844171147441,
+          50.126999299999994
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776517419269695,
+          50.80843195
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Studierendenhaus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.662200829901114,
+          50.5679356
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Analytische Chemie Haus 16",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64961514254717,
+          50.1170773
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Mathe-Turm",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672676203776032,
+          50.57120525
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Chemie I",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.674120806986576,
+          50.5691134
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institutsgeb\u00e4ude Physik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.674178574163893,
+          50.56886235
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Werkstattgeb\u00e4ude Physik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67394145650302,
+          50.569517250000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "H\u00f6rsaalgeb\u00e4ude Physik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672860533021327,
+          50.569683350000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Interdiziplin\u00e4res Forschungszentrum (IFZ)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671452168981578,
+          50.57092685
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochschulrechenzentrum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671935119769621,
+          50.5713716
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Gr. Chemischer H\u00f6rsaal",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671758077755062,
+          50.5702611
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Carl-Vogt-Haus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699699373492983,
+          50.5728709
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "E",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699621957610667,
+          50.573739700000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "G",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.758383967454286,
+          50.3295977
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A5",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.757882889072032,
+          50.3303064
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A7",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69308217597029,
+          50.58095415
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Seminargeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692451735603733,
+          50.58134135
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69274843078124,
+          50.581678800000006
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693763127796533,
+          50.58113795
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69391494680686,
+          50.5814
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Dekanat Rechtswissenschaften",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693815943387634,
+          50.5812892
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694345611454974,
+          50.581872450000006
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Dekanat Wirtschaftswissenschaften",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693431575482917,
+          50.58184585
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694772771925244,
+          50.581318800000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693100278947373,
+          50.58207645
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Servicezentrum Studium und Pr\u00fcfungen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772233997582234,
+          50.81268325
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Philipps-Universit\u00e4t Marburg - Campus Stadtmitte",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.767135554397017,
+          50.80978184999999
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.780142355371128,
+          50.80991725
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Philipps-Universit\u00e4t Marburg - Campus Geisteswissenschaften",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680369054154891,
+          49.85984585
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680468950000002,
+          49.85940555
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.664840418044577,
+          50.5748153
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Psychatrie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672277312730193,
+          50.56982485
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "IFZ Biotechnikum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672554640533587,
+          50.5692946
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "IFZ Probenlager",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67276175,
+          50.56890105
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "IFZ Werkstattgeb\u00e4ude Physik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.673259724169629,
+          50.5682838
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Stoffwechsellabor",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6724231,
+          50.567936700000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "IFZ Forschungshalle",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671883492305795,
+          50.568719200000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Zoologie Tierhaus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.673415425591095,
+          50.571867
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Zwischenlager",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.701559774478117,
+          50.58460975
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Sportzentrum/Institutsgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766410133074583,
+          50.807474850000006
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.775207902961778,
+          50.8032253
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Sporthalle",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766612630496455,
+          50.807726200000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Sportwissenschaft & Motologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.765957076578275,
+          50.8082325
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Kugelhaus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768772071009732,
+          50.80979175
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Altes Landgericht",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658605827644788,
+          50.5738711
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Justus-Liebig-Universit\u00e4t Campusbereich Seltersberg/Veterin\u00e4rmedizin",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.670400231671586,
+          50.57370435
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Justus-Liebig-Universit\u00e4t Mathematisches Institut",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773065749590035,
+          50.8144098
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Medizinische Biometrie und Epidemiologie (IMBE)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.659462608620684,
+          50.57405704999999
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Dekanat Veterin\u00e4rmedizin",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.660026602816092,
+          50.5741117
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut 1. Tier\u00e4rztliche Nahrungsmittelkunde",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.659002108293347,
+          50.5745862
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Chirurgische Veterin\u00e4rklinik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65858064912935,
+          50.573969149999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Medizinische Veterin\u00e4rklinik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.657880599999995,
+          50.574148449999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Kleintierklinik/Klinikgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658337045143274,
+          50.574945650000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Lehrschmiede",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.660318219576169,
+          50.57308245
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771284465988792,
+          50.8147221
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770444543999446,
+          50.814261
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Physiologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772625060454118,
+          50.81463465
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677102999999999,
+          49.860538649999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Solar Decathlon Geb\u00e4ude 2007",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.625436185833347,
+          49.87125935
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "TIZ",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.659586569707105,
+          49.8755709
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Psychologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770943207708845,
+          50.8166753
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Zytobiologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771320386486263,
+          50.8158923
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Anatomie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771210340969652,
+          50.81626865
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Zytobiologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77808545579467,
+          50.80395565
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Erziehungswissenschaften",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768847679821803,
+          50.811262
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Fachbereich Physik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76851675,
+          50.8132752
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geschichte der Pharmazie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.767816598214338,
+          50.8146241
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Soziologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693162855604939,
+          50.57316365
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Freie Theologische Hochschule Gie\u00dfen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678812371965973,
+          50.5863289
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678369684348898,
+          50.586477099999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677152950000004,
+          50.587383349999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677214649999996,
+          50.587408350000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677413345312448,
+          50.5872285
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67812042655206,
+          50.58671055000001
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681480834105407,
+          50.5620598
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Strahlenzentrum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.631265141183036,
+          50.17353155
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "G\u00e4stewohnhaus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694913296420209,
+          50.5714057
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Akademisches Pr\u00fcfungsamt Geisteswissenschaften",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.503106430071568,
+          51.321850600000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "FB 6 Architektur, Stadtplanung, Landschaftsplanung",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.50645318425835,
+          51.32331945
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Universit\u00e4t Kassel - Campus Holl\u00e4ndischer Platz",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.049261037819106,
+          50.01237665
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Walther-Leisler-Kiep-Center",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.050227141906422,
+          50.012096799999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.04941956586616,
+          50.012248150000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "European Business School",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.050039492159918,
+          50.012771799999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677167526562341,
+          50.580410549999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hauptgeb\u00e4ude Justus-Liebig-Universit\u00e4t",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677754563146433,
+          50.5798239
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Alte Physik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677904523638718,
+          50.57875185
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Erwin-Stein-Geb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63363125,
+          50.17306275
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.679351455659681,
+          50.5552784
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Studentenwohnheim Altes Finanzamt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681601265854868,
+          50.589741149999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "D10",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681256895984195,
+          49.868987000000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "TU Darmstadt / Botanischer Garten",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.048315427722923,
+          50.01226065
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.669867953201056,
+          50.126251350000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "I.G.-Farben Nebengeb\u00e4ude (NG)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.62758368747803,
+          49.8741395
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.62727158760396,
+          49.874141300000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.627502611259166,
+          49.8735065
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.632308675840147,
+          50.17281305
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "N161",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679912089352118,
+          50.584707800000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "B13",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6804992184126,
+          50.5853115
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "B11",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65027042013889,
+          50.1170531
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Mathe-Geb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.650941157552083,
+          50.1170216
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Altes Physikgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.215868825324678,
+          50.098236850000006
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.216220957070217,
+          50.09760145
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochschule RheinMain",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.99770912867054,
+          50.539779550000006
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Laubach-Kolleg Oberstufengymnasium",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.998530902000486,
+          50.54020035
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Laubach-Kolleg Oberstufengymnasium",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.999328123683439,
+          50.539912799999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Laubach-Kolleg Oberstufengymnasium",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675729905041791,
+          50.10222805
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65738557586554,
+          50.57372565
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bereichswerkstatt Veterin\u00e4rmedizin",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658206674045356,
+          50.573321199999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Veterin\u00e4rphysiologisches Institut",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.659471155966466,
+          50.57370455
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Veterin\u00e4rpathologisches Institut",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65845568643931,
+          50.5747534
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Chirurgische Hundeklinik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65769827282141,
+          50.57434205
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Kleintierklinik/Stallgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658590000000004,
+          50.5744528
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6592695,
+          50.57357675
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65896906200906,
+          50.57340495
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.660345653537084,
+          50.57339305
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Tierstall und Chemikalienlager",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658800314696322,
+          50.5734864
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658627696164086,
+          50.573323
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Container",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65903037155986,
+          50.573811750000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Veterin\u00e4ranatomisches Institut",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658494449999996,
+          50.574373699999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Heulager / Schuppen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.659077695027623,
+          50.57346255
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658656126091465,
+          50.57437925
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Pferdeboxen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658885450028802,
+          50.5733544
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6588376,
+          50.5732126
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "EU-Zuchtstation",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.216925865779157,
+          50.09686845
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochschule RheinMain",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.217256118061737,
+          50.096608700000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.669343351259943,
+          50.129348300000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Normative Ordnungen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6840217162486,
+          50.58541565
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C13",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683464443988974,
+          50.58568565
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C21",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681485301956688,
+          50.59000075
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "D11",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.644545344958363,
+          51.428349
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Polizeiakademie Niedersachsen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66704305,
+          50.57137125
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Physiologisches Institut",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676569224621208,
+          50.5830864
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "E10",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658852099999994,
+          50.57428095
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Reithalle",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.230648197606422,
+          50.080347
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Wiesbaden Business School",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.728247399520122,
+          50.573655200000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68094138275902,
+          50.579631649999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Alte UB / B\u00fccherturm",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680513995250635,
+          50.57938885
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Alte UB",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680539495442781,
+          50.5797656
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Alte UB",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66600809285714,
+          50.5708316
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Biomedizinisches Forschungszentrum Seltersberg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.664900129708457,
+          50.5720024
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Seltersberg Haus C",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.665732535576923,
+          50.1238805
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Taxi Point",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699531550222847,
+          50.5755974
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Wilhelm-von-Humbold-Haus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70032558340579,
+          50.5750948
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69889835862232,
+          50.5752327
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Alexander-von-Humboldt-Haus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67065552819608,
+          50.573671649999994
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Mathematisches Institut",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.673128958911798,
+          50.57260625
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Landesbetrieb Bau und Immobilien Hessen Niederlassung Mitte",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.670026194892635,
+          50.5740395
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "JLU M\u00f6bellager",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69477562193315,
+          50.5732534
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Kessler-und-Luch-Geb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.641039150886824,
+          49.86675805
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671187749999998,
+          50.568824750000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Tierphysiologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680960313569805,
+          50.589663650000006
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.641455129605266,
+          49.86620015
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "FB Informatik (D14)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671575310919527,
+          50.56912095
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671472659963445,
+          50.5695491
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678797636640539,
+          50.58097565
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678297852116202,
+          50.581345400000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677912449999999,
+          50.58118145
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6786577984135,
+          50.58112595
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.665982648724363,
+          50.5777812
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Hygiene und Umweltmedizin",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681309607946273,
+          50.590242700000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "D12",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.791906630659312,
+          51.05691105
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Technische Hochschule Mittelhessen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.774481703861088,
+          50.8099522
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Ernst-von-H\u00fclsen-Haus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77196930402749,
+          50.8080595
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Alte Universit\u00e4t",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.631876172349532,
+          50.17278605
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "N160",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.631578462336957,
+          50.1724697
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "N140",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.665203734707223,
+          50.57597295
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Lehr- und Dekanatsgeb\u00e4ude FB11",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.632263494720362,
+          49.86586255
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658175093043699,
+          50.572628699999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geburtshilfliche Veterin\u00e4rklinik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672355782388248,
+          50.569560249999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680751979296673,
+          50.5855027
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68083163901148,
+          50.585647699999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "B10",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.685279094101356,
+          50.585035500000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C 50",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.685051157824422,
+          50.58581865
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C16",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681229252173914,
+          49.8613139
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "H\u00f6rsaal- und Medienzentrum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.643540971281263,
+          49.870485200000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681979537757453,
+          50.58262275
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Akademisches Auslandsamt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680473418149884,
+          50.5795318
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Alte UB",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658618524170762,
+          50.57311515
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Campuswerkstatt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65835065579375,
+          50.57288065
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.47327989727074,
+          51.3108015
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.881705814625331,
+          50.75632805
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Schlo\u00df Rauischholzhausen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66923939870123,
+          50.57550355
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Klinik f\u00fcr Psychosomatik und Psychotherapie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.669785865629633,
+          50.574691099999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Medizinische Psychologie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667693354378223,
+          50.57619145
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Biochemie mit H\u00f6rsaal",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.668856150442544,
+          50.57797735
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Ern\u00e4hrungswissenschaften",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.684932412944983,
+          50.5641993
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "43(C) (Angewandte Informatik)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685033381713223,
+          50.5649052
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "45(D) (Sporthalle)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.68552079999999,
+          50.5651531
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "46(E) (Angewandte Informatik / Oekotrophologie / DVZ)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.684553066377328,
+          50.5651943
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "51(G) (Angewandte Informatik)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.684451753909588,
+          50.564859
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "52 (Halle 8)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.684726100072238,
+          50.56554535
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "50(J) (Lebensmitteltechnologie, Oecotrophologie, AstA)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.686851303882577,
+          50.5631238
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "34(LS) (Hochschul- und Landesbibliothek Fulda, WSR)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685165485359796,
+          50.564404550000006
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "44 (Selbstlernzentrum)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.688515599839118,
+          50.564611
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "25(SLS) (Seminarr\u00e4ume)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.479450060572688,
+          51.31145995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Center for EnvironmentalSystems Research",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.636480446753847,
+          49.86400165
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "h_da - FB Energiewirtschaft",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.806475131104868,
+          49.975210849999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Berufsakademie Rhein-Main",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.674237033371693,
+          50.5763915
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institutsgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693305824678255,
+          50.13013235
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geb\u00e4ude 1",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69186514429161,
+          50.1308344
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geb\u00e4ude 4",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.691118641011984,
+          50.130415
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geb\u00e4ude 7",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.691778745678466,
+          50.1300952
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geb\u00e4ude 8",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693144895303579,
+          50.12978175
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geb\u00e4ude 9",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85509955,
+          49.90174475
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Aula",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85789005061056,
+          49.9023856
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.856252941628723,
+          49.90112805
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Mensa Dieburg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.856287845751837,
+          49.901284149999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "h_da Campus Dieburg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.855633095567207,
+          49.90207725
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "h_da F01",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.856215549157593,
+          49.90248775
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "h_da F14",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.857177934052526,
+          49.901996100000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "h_da F15",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.858003404335957,
+          49.9021683
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "h_da F18",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85803484384305,
+          49.90304425
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "h_da F16",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.858930684760919,
+          49.90271
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "h_da F17",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.659666248168008,
+          49.87409795
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "TU Darmstadt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.669932791925795,
+          49.8825291
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Studentenwohnheim Karlshof",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.697301155575083,
+          50.109955150000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Frankfurt School of Finance & Management",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677069750000005,
+          50.567754050000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.665497282863612,
+          50.564822050000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.665927998415867,
+          50.5645188
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66197485687351,
+          50.57405465
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "V\u00f6gel, Reptilien, Amphibien und Fische",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.424529274118544,
+          49.9851597
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochschule RheinMain",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679191701432533,
+          50.58709425
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679337230862584,
+          50.587502549999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678700899999999,
+          50.587088
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Stabsgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.487417294395911,
+          51.30348375
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "S\u00fcdbau",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.478592895167854,
+          51.311141750000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Wissenschaftliches Zentrum f\u00fcr Informationstechnik-Gestaltung",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676002904453807,
+          50.587108
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.665199588031339,
+          50.57165605
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Excellence Cluster Cardio-Pulmonary System",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679137592674149,
+          50.588176700000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676638397605139,
+          50.5827473
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "E12",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676803897727702,
+          50.5828669
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "E11",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681422411141185,
+          50.58223425
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678996448864758,
+          50.5807664
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Pr\u00fcfungs- und Promotionsamt",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681456950000001,
+          50.58205805
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institutsgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68166534066474,
+          50.582162249999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Garage",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68171758959712,
+          50.582034300000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institutsgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.178921417557252,
+          50.9122979
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bibliothek",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.668955210733918,
+          50.1277717
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "PA-Geb\u00e4ude (Zentralverwaltung)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.669057979106078,
+          50.12850335
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.501652154199284,
+          51.3233316
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "INCON-Geb\u00e4ude (Universit\u00e4t Kassel)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671603819276882,
+          50.5889603
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.646202859513743,
+          50.598854
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.647048055626179,
+          50.59951365
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66210163187239,
+          50.5743624
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.661846564526751,
+          50.5749647
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.661372299999991,
+          50.574448000000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66572590324754,
+          50.5773813
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.665404333550502,
+          50.57710845
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.661281506514127,
+          50.57454665
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Arbeitsgruppe Biomathematik und Datenverarbeitung",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.665097647025348,
+          50.577417600000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680896258911162,
+          50.583318750000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "B21",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676050533944828,
+          50.5806015
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Zentrum f\u00fcr Medien und Interaktivit\u00e4t",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675909805284329,
+          50.5806711
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Margarete-Bieber-Saal",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677950116508061,
+          50.580553699999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Alte Villa",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68091854041096,
+          50.583476399999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "B21",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699825330557463,
+          50.5755937
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694989649999997,
+          50.581160749999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6800772,
+          49.859478949999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Gasflaschenlager",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684489587181567,
+          50.58566395
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684955899999999,
+          50.58593545
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C16",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667782751771258,
+          50.59854675
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Landwirtschaftliche Lehr- und Forschungseinrichtung \"Launsbacher Weg\"",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76371640063996,
+          50.81373985
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Fachbereich Pharmazie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95678905826156,
+          49.98358855
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Forschungsanstalt Geisenheim",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.646151833739701,
+          49.862886599999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Sch\u00fcler-Lern-Labor FB Informatik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.637191592983566,
+          49.8658894
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "FB Chemie- und Biotechnologie (B14)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.687562947964363,
+          50.565271100000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "12 (Hochschul- und Landesbibliothek)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.686210119811182,
+          50.56533775
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "10(S) (Student Service Center)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.686861784987103,
+          50.5656017
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "11 (Mensa)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.638395017948024,
+          49.866522
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679414626818263,
+          50.5843
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "B14",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.670506852924298,
+          50.12792255
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Max-Planck-Institut f\u00fcr europ\u00e4ische Rechtsgeschichte",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66476222751529,
+          50.12716345
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.664708558474342,
+          50.1285628
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.673929245268852,
+          50.5681498
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Seminar- und H\u00f6rsaalgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67471926894514,
+          50.568599899999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Praktikumsgeb\u00e4ude Chemie A",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67547358220152,
+          50.5683826
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institutsgeb\u00e4ude Chemie B",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679205208108524,
+          49.8590768
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "NMR- und Laborzentrum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.487888364289486,
+          51.30389005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Atrium",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.633285049932143,
+          50.172867749999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.657017662739914,
+          50.57343925
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.657253094997534,
+          50.5731099
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Kleintier- und Vogelklinik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8556817615763,
+          51.34949855
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.032371427470817,
+          50.005672849999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "EBS Campus Rheingau Burg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693205803591159,
+          50.576885149999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "E",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694011051997201,
+          50.57698635
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "D",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694246046646294,
+          50.577221800000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "G",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692652154523511,
+          50.576762200000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "F",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694408537244897,
+          50.57641555
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "B",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.673068055813204,
+          50.5713223
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Chemie H",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.805678663485054,
+          50.81454905
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hauptgeb\u00e4ude Klinikum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680907099215482,
+          49.86014505
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680909650626148,
+          49.859596350000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680579709042885,
+          49.86008135
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6644095,
+          49.8559872
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.701958233077622,
+          50.5852425
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68469317517005,
+          49.8611552
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6840037,
+          49.86111315
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684277775214285,
+          49.86108675
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683933724813897,
+          49.8617773
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.685211226512568,
+          49.861534899999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Maschinenbauhalle 4",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68477305,
+          49.860871849999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "CO2-Versuchshalle",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67670275,
+          49.86052305
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Solar Decathlon Geb\u00e4ude 2009",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679358796788765,
+          49.8631922
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochleistungsrechenzentrum",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.664422847580138,
+          50.572357600000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Verbindungsgang Haus C",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.674811093026122,
+          50.10232275
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Staatliche Hochschule f\u00fcr Bildende K\u00fcnste - St\u00e4delschule Frankfurt am Main",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.85872918425907,
+          51.344470900000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.859846343107002,
+          51.3440941
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Universit\u00e4t Kassel",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678611624193092,
+          49.8604758
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Center of Smart Interfaces",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682423949092474,
+          49.86215895
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678788000183369,
+          49.86325015
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Bauingenieurhalle 1 Anbau",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7703687765073,
+          50.813806299999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Schulp\u00e4dagogik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699372050000004,
+          50.585022300000006
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68510415,
+          50.5860729
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C15",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683763726947591,
+          50.5859499
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C20",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683603505756624,
+          50.585789399999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C21",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679667440965666,
+          50.56216185
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.230678408656182,
+          50.080063249999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochschule RheinMain",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667596881312463,
+          50.12897065
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Hochschulrechenzentrum - Goethe-Card Service Westend",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681714423246142,
+          50.58234875
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.473178081007752,
+          51.310845799999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.473571377931485,
+          51.31056315
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.474029702027746,
+          51.3111658
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.962760800000002,
+          51.266323549999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Diploma Hochschule",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.880137842342734,
+          50.76062855
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Landwirtschaftliche Lehr- und Forschungseinrichtung Rauischholzhausen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685055221423267,
+          50.56374555
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "42(F) (Zentrale Verwaltung)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.687444953756566,
+          50.5643826
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "30(M) (Elektrotechnik und Informationstechnik, Wirtschaft)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.686818319083866,
+          50.56366855
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "31(L) (Lebensmitteltechnik, Pflege und Gesundheit)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.687059471052631,
+          50.563925
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geb\u00e4ude L (Lebensmitteltechnik, Pflege und Gesundheit)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.688198649999997,
+          50.5652111
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "29(N) (Gro\u00dfunterrichtsraum N10)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.688008949164331,
+          50.56499695
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "20(N) (Seminarr\u00e4ume)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.68890138550914,
+          50.565984400000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "22(P) (Sozial- und Kulturwissenschaften)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.688402841973906,
+          50.565427299999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "21(O) (Sozialwesen)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.688786735196189,
+          50.56585415
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geb\u00e4ude P (Sozial- und Kulturwissenschaften)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.688640946052633,
+          50.5656798
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geb\u00e4ude O (Sozialwesen)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.686507631372692,
+          50.5645298
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "33(K) (Elektrotechnik und Informationstechnik)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.686058169080393,
+          50.564654250000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "49(A) (Oecotrophologie)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685663043024217,
+          50.5642214
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "41(B) (Pr\u00e4sidium und Zentralverwaltung)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.669916247506944,
+          50.12672375
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.757298162587132,
+          50.33016635
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A8",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.483839227522402,
+          51.297267649999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Sport und Sportwissenschaft",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66822678945642,
+          50.5759401
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Unterirdischer Tierstall",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667345299373952,
+          50.576485500000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Kurssaalanbau",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.876655602961637,
+          50.7550212
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Versuchsg\u00e4rtnerei",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.669383328094126,
+          50.13089145
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Seminarpavillon",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.644822200719425,
+          50.1314593
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6444706,
+          50.13145335
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677047387929939,
+          49.86263325
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677200048965659,
+          49.8613244
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676361242500409,
+          49.86113965
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Architektur FB 15",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.666292846007309,
+          50.572037800000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Forschungsgeb\u00e4ude Medizin",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6965306717745,
+          50.57690545
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Seminargeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699976819474603,
+          50.573589150000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Justus-Liebig-Universit\u00e4t - Campusbereich Philosophikum II",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694279871103252,
+          50.57605365
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Justus-Liebig-Universit\u00e4t - Campusbereich Philosophikum I",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694010697662636,
+          50.58099815
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Justus-Liebig-Universit\u00e4t Campusbereich Recht und Wirtschaft",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.701597090784343,
+          50.58455975
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Justus-Liebig-Universit\u00e4t Campusbereich Sport/Kugelberg",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678723387679764,
+          50.58676185
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Justus-Liebig-Universit\u00e4t Campusbereich Zeughausbereich",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.758438075775434,
+          50.33014415
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Technische Hochschule Mittelhessen (THM)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.758827314523977,
+          50.33056995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A4",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.758784403793312,
+          50.330223149999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A3",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.759420483424083,
+          50.32999485
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A2",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.759382076264492,
+          50.330449099999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A1",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75969177322077,
+          50.3314541
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Technische Hochschule Mittelhessen (THM)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.760327087052373,
+          50.33167325
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "B2",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75957510472545,
+          50.331345400000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "B1",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.661664,
+          50.57381785
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Vogelklinik - Sprechstunde",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66862025,
+          50.1292932
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Seminarhaus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6810218,
+          49.863387349999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "ETA-Fabrik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.668284151159016,
+          50.12559125
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "I.G.-Farben-Haus",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693412824219537,
+          50.1308799
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Geb\u00e4ude 2",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672423436832442,
+          50.56943675
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66754794309164,
+          50.12916425
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772364553792652,
+          50.8108868
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Forschungszentrum Deutscher Sprachatlas",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68211741933962,
+          50.587002850000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "A22",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.650083336535632,
+          50.11663385
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Institut f\u00fcr Informatik",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.649346455813955,
+          50.1165374
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Magnus H\u00f6rsaal",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.649317759630266,
+          50.11633175
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Fischer-R\u00e4ume",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.509515906748572,
+          51.32448865
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Universit\u00e4t Kassel - Villa R\u00fchl",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.688886955689036,
+          50.56664605
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "23 (Seminarr\u00e4ume)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.031754966458958,
+          50.7532227
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Forschungszentrum Neu-Ulrichstein",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680785765416214,
+          50.1326291
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Frankfurt School of Finance & Management",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68163571547079,
+          50.132781550000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.642054359346929,
+          50.1324705
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Abteilung Sportmedizin",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64358574362588,
+          50.132346350000006
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Abteilung Sozialwissenschaften des Sports",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64413365,
+          50.13181555
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Sporthallen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6444595,
+          50.1324604
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Abteilung Trainings- und Bewegungswissenschaften",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.644690350085398,
+          50.13127015
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Verwaltung",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.645026550572227,
+          50.13144905
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Neues H\u00f6rsaalgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667484297450994,
+          50.5983058
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Drahthaus, Vegetationshalle",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6674349,
+          50.59818385
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Ger\u00e4teh\u00e4uschen",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.490750757258265,
+          51.304929200000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Nordbau",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667847474967196,
+          50.571357250000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Anatomie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.668421343452582,
+          50.57073405
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Anatomie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658021946175243,
+          50.5737998
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Gro\u00dftier-, Infektions-, und Isolierstall",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.673014550326986,
+          50.58618545
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.673001318750558,
+          50.5862694
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.668328900000006,
+          50.578388000000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66810476475186,
+          50.578288549999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66170763605762,
+          50.57463505
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Veterin\u00e4rhygiene-Institut",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.662092539702098,
+          50.57486995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "H\u00f6rsaalgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.662130525420295,
+          50.5746625
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Laborgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658283066135839,
+          50.5745816
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Demonstrationshalle",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658623832348908,
+          50.5746888
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "CRT-MRT-Geb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677583846463268,
+          50.580027599999994
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Altes Physik-Chem. Institut",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67119877097433,
+          50.569832149999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Topf- und Erdlager",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671051618683197,
+          50.569776149999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Trafostation",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.702123025434602,
+          50.5730718
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.701718880447554,
+          50.5738471
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "B",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.702592778984817,
+          50.58503145
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Sportzentrum/Spielhalle",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.701157100169134,
+          50.58524585000001
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Sportzentrum/\u00dcbungsgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.702077463117547,
+          50.5847853
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Sportzentrum/Multifunktionsgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699693700000001,
+          50.58515095
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Sportzentrum/Eingangsgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699205659450737,
+          50.574686799999995
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "H",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693854138773562,
+          50.5803661
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "H\u00f6rsaalgeb\u00e4ude",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677526067522667,
+          50.58089795
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Alte Chemie",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69541820343337,
+          50.57603375
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "UB, Universit\u00e4tsbibliothek",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693227373712741,
+          50.576111600000004
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "C",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.771630608406095,
+          50.8134478
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "Zentrale Universit\u00e4tsbibliothek (im Bau)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677467671198453,
+          50.58044575
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.756220130939523,
+          50.32796185
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "THM (Technische Hochschule Mittelhessen)",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.123188153149137,
+          51.1172957
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.639226092952233,
+          49.866274849999996
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63845638296327,
+          49.86631265
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.674901140701731,
+          50.56927175
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.715967599999995,
+          50.55689445
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6758329,
+          50.5872261
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679456949999999,
+          50.588211900000005
+        ]
+      },
+      "properties": {
+        "category": "university",
+        "name": "",
+        "marker-color": "#ff8040"
+      }
+    }
+  ]
+}

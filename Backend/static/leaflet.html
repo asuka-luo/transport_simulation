@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>mobilitysim viz</title>
+        <meta charset="UTF-8" />
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <link rel="stylesheet" type="text/css" href="css/leaflet.css" />
+        <script>L_PREFER_CANVAS = true;</script>
+        <script type="text/javascript" src="js/leaflet.js"></script>
+        <script type="text/javascript">
+            <!--
+            
+            var map;
+            var line_id;
+            var lines = {};
+            var tmp_array = new Array();
+            var marked_lines = new Array();
+            
+            var leisure_marker = new L.LayerGroup();
+            var company_marker = new L.LayerGroup();
+            var uni_marker = new L.LayerGroup();
+            var shop_marker = new L.LayerGroup();
+            var home_marker = new L.LayerGroup();
+            
+            var leisure_r_marker = new L.LayerGroup();
+            var company_r_marker = new L.LayerGroup();
+            var uni_r_marker = new L.LayerGroup();
+            var shop_r_marker = new L.LayerGroup();
+            function main() {
+                
+                load_map();
+                
+                draw_all_lines();
+                
+            }
+            
+            function load_map() {
+                
+                var map_source = 'https://tiles.motis-project.de/osm_light/{z}/{x}/{y}.png?token=862bdec137edd4e88029304609458291f0ec760b668c5816ccdd83d0beae76a4';
+                map = L.map('map').setView([49.872802, 8.650691], 10);
+
+                L.tileLayer(map_source, {
+                    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+                }).addTo(map);
+                
+                
+                var overlayMaps = {
+                    "Home": home_marker,
+                    "Shop (all)": shop_marker,
+                    "Leisure (all)": leisure_marker,
+                    "Company (all)": company_marker,
+                    "University (all)": uni_marker,
+                    "Shop (related)": shop_r_marker,
+                    "Leisure (related)": leisure_r_marker,
+                    "Company (related)": company_r_marker,
+                    "University (related)": uni_r_marker
+                };
+                L.control.layers(null,overlayMaps,{collapsed:true}).addTo(map);
+                
+                map.on("click", onMapClick);
+                map.on('overlayadd', function(e) {
+                    if (e.name === "Company (all)")
+                        get_companies("all");
+                    else if (e.name === "Company (related)")
+                        get_companies("related");                    
+                    else if (e.name === "University (all)")
+                        get_unis("all");
+                    else if (e.name === "University (related)")
+                        get_unis("related");
+                    else if (e.name === "Leisure (all)")
+                        get_parks("all");
+                    else if (e.name === "Leisure (related)")
+                        get_parks("related");
+                    else if (e.name === "Shop (all)")
+                        get_shops("all");
+                    else if (e.name === "Shop (related)")
+                        get_shops("related");
+                    else if (e.name === "Home")
+                        get_homes();
+                });
+            }
+            
+            function onMapClick(e) {
+
+                line_id = null;
+                unmark_all_lines();
+                document.getElementById("infobox").style.display = "none";
+
+            }
+
+            function onLineClick(e) {
+
+                first_id = e.target.datafirst;
+                second_id = e.target.datasecond;
+                line_id = first_id + "_" + second_id;
+                document.getElementById("infobox").style.display = "block";
+                get_line_info();
+
+            }
+
+            function get_line_info() {
+
+                document.getElementById("passengerbox").style.width = "0px";
+                document.getElementById("passengerbox").style.padding = "0px";
+                unmark_all_lines();
+                get_related_lines();
+
+                var url = "http://localhost:5000/get_line_info?id=" + line_id;
+                
+                function received(answer) {
+
+                    var timestamp, date, routine_list, direction, transport_name, line_info;
+                    line_info = JSON.parse(answer);
+
+                    document.getElementById("traveldata").innerHTML = '<table id="infotable" style="width:100%"></table>';
+                    document.getElementById("infotable").innerHTML += '<tr><th>Transportname</th> <th>Direction</th> <th>Depature</th> <th>Routine</th></tr><tr></tr>';
+                    
+                    for (i = 0; i < line_info.length; i++) {
+                        passenger_list = line_info[i][3];
+                        transport_name = line_info[i][2];
+                        direction = line_info[i][1];
+                        datetime = line_info[i][0];
+                        document.getElementById("infotable").innerHTML += '<tr><td>' + transport_name +
+                                '</td><td>' + direction + '</td><td>' + datetime +'</td><td class="expandpassenger" onclick="show_passenger_list(\'' + passenger_list + '\');">+</td></tr>';
+                        document.getElementById("infotable").innerHTML += '<tr></tr>';
+                        document.getElementById("infotable").innerHTML += '<tr></tr>';
+                        
+                    }
+
+                }
+
+                httpGet(url, received);
+
+            }
+
+            function show_passenger_list(passenger_list){
+
+                var passenger_id;
+                passenger_list = passenger_list.split(",");
+                document.getElementById("passengerbox").style.width = "300px";
+                document.getElementById("passengerbox").style.padding = "5px 10px";
+                document.getElementById("passengerbox").innerHTML = "Routine-ID List: <br>";
+                for (j = 0; j < passenger_list.length; j++) {
+                    passenger_id = passenger_list[j];
+                    document.getElementById("passengerbox").innerHTML += '<span onmouseover="mark_passenger_lines(\'' + passenger_id + '\')" onmouseout="unmark_passenger()" >' +
+                            passenger_id + '</span> | ';
+                }
+            }
+
+            function mark_passenger_lines(r_id) {
+
+                tmp_array = marked_lines;
+                unmark_all_lines();
+
+                var url = "http://localhost:5000/mark_passenger_lines?routine=" + r_id;
+                function received(answer) {
+
+                    var obj = JSON.parse(answer);
+                    for (i = 0; i < obj.length; i++) {
+                        eval(obj[i]);
+                    }
+
+                }
+
+                httpGet(url, received);
+
+            }
+
+            function unmark_passenger() {
+
+                unmark_all_lines();
+
+                for (i = 0; i < tmp_array.length; i++) {
+                    polyline = tmp_array[i];
+                    polyline.setStyle({color: '#ff0000'});
+                }
+                var split = line_id.split("_");
+                mark_line(split[0], split[1], "#ffff00");
+
+                marked_lines = tmp_array;
+                tmp_array = new Array();
+            }
+            
+            function draw_line(line, width, first_id, second_id) {
+                console.log("line");
+                var polyline = L.polyline(line, {
+                    color: '#0000ff',
+                    weight: width,
+                    opacity: 0.8})
+                        .addTo(map);
+                polyline.datafirst = first_id;
+                polyline.datasecond = second_id;
+                polyline.on("click", onLineClick);
+
+                if (lines[first_id] === undefined) {
+                    lines[first_id] = {};
+                }
+                lines[first_id][second_id] = polyline;
+
+            }
+
+            function mark_line(first_id, second_id, color) {
+
+                var polyline;
+                polyline = lines[first_id][second_id];
+                polyline.setStyle({color: color});
+                marked_lines.push(polyline);
+
+            }
+            
+            function mark_company(name, position, worker, type) {
+                var companyMarker = L.icon({
+                    iconUrl: 'company_marker.png',
+                    iconSize:     [25, 25],
+                    iconAnchor:   [12.5, 25],
+                    popupAnchor:  [0, -27]
+                });
+
+                
+                if (type === 'all'){
+                    var marker = L.marker(position, {icon: companyMarker})
+                        .bindPopup("Company: " + name + " |  Worker:" + worker);
+                    marker.addTo(company_marker)
+                }                    
+                else{
+                    var marker = L.marker(position, {icon: companyMarker})
+                        .bindPopup("Company");
+                    marker.addTo(company_r_marker)
+                }                   
+            }
+            
+            function mark_uni(name, position, type) {
+
+                var uniMarker = L.icon({
+                    iconUrl: 'uni_marker.png',
+                    iconSize:     [25, 25],
+                    iconAnchor:   [12.5, 25],
+                    popupAnchor:  [0, -27]
+                });
+
+                
+                if (type === 'all'){
+                    var marker = L.marker(position, {icon: uniMarker})
+                        .bindPopup("University: " + name);
+                    marker.addTo(uni_marker)
+                }                    
+                else{
+                    var marker = L.marker(position, {icon: uniMarker})
+                        .bindPopup("University");
+                    marker.addTo(uni_r_marker)
+                }                   
+
+            }
+            
+            function mark_park(name, position, type) {
+
+                var leisureMarker = L.icon({
+                    iconUrl: 'leisure_marker.png',
+                    iconSize:     [25, 25],
+                    iconAnchor:   [12.5, 25],
+                    popupAnchor:  [0, -27]
+                });
+
+                
+                if (type === 'all'){
+                    var marker = L.marker(position, {icon: leisureMarker})
+                        .bindPopup("Leisure: " + name);
+                    marker.addTo(leisure_marker)
+                }                    
+                else{
+                    var marker = L.marker(position, {icon: leisureMarker})
+                        .bindPopup("Leisure");
+                    marker.addTo(leisure_r_marker)
+                }
+                    
+
+            }
+            
+            function mark_shop(name, position, type) {
+
+                var shopMarker = L.icon({
+                    iconUrl: 'shop_marker.png',
+                    iconSize:     [25, 25],
+                    iconAnchor:   [12.5, 25],
+                    popupAnchor:  [0, -27]
+                });
+
+                
+                if (type === 'all'){
+                    var marker = L.marker(position, {icon: shopMarker})
+                        .bindPopup("Shop: " + name);
+                    marker.addTo(shop_marker)
+                }
+                else{
+                    var marker = L.marker(position, {icon: shopMarker})
+                        .bindPopup("Shop");
+                    marker.addTo(shop_r_marker)
+                }
+
+            }
+
+            function mark_home(position) {
+
+                var homeMarker = L.icon({
+                    iconUrl: 'home_marker.png',
+                    iconSize:     [25, 25],
+                    iconAnchor:   [12.5, 25],
+                    popupAnchor:  [0, -27]
+                });
+
+                var marker = L.marker(position, {icon: homeMarker})
+                        .bindPopup("Home")
+                marker.addTo(home_marker)
+
+            }
+
+            // change all marked_lines to blue
+            function unmark_all_lines() {
+
+                var polyline;
+
+                for (i = 0; i < marked_lines.length; i++) {
+                        polyline = marked_lines[i];
+                        polyline.setStyle({color: '#0000ff'});
+                    }
+                marked_lines = new Array();
+
+            }
+
+            function draw_all_lines() {
+
+                var url = "http://localhost:5000/draw_all_lines";
+                function received(answer) {
+
+                    var obj = JSON.parse(answer);
+                    for (i = 0; i < obj.length; i++) {
+                        eval(obj[i]);
+                    }
+                }
+
+                httpGet(url, received);
+            }
+
+            function get_related_lines() {
+
+                var url = "http://localhost:5000/get_related_lines?id=" + line_id;
+                function received(answer) {
+
+                    var obj = JSON.parse(answer);
+                    for (i = 0; i < obj.length; i++) {
+                        eval(obj[i]);
+                    }
+                }
+
+                httpGet(url, received);
+            }
+
+            function get_homes() {
+                var url = "http://localhost:5000/get_homes";                
+                function received(answer) {
+
+                    var obj = JSON.parse(answer);
+                    for (i = 0; i < obj.length; i++) {
+                        eval(obj[i]);
+                    }
+                }
+
+                httpGet(url, received);
+
+            }
+
+            function get_companies(type) {
+                var url = "http://localhost:5000/get_companies?type=" + type;                
+                function received(answer) {
+
+                    var obj = JSON.parse(answer);
+                    for (i = 0; i < obj.length; i++) {
+                        eval(obj[i]);
+                    }
+                }
+
+                httpGet(url, received);
+
+            }
+            
+            function get_unis(type) {
+
+                var url = "http://localhost:5000/get_unis?type=" + type;
+                function received(answer) {
+
+                    var obj = JSON.parse(answer);
+                    
+                    for (i = 0; i < obj.length; i++) {
+                        eval(obj[i]);
+                    }
+                }
+
+                httpGet(url, received);
+
+            }
+            
+            function get_parks(type) {
+
+                var url = "http://localhost:5000/get_parks?type=" + type;
+                function received(answer) {
+
+                    var obj = JSON.parse(answer);
+                    
+                    for (i = 0; i < obj.length; i++) {
+                        eval(obj[i]);
+                        
+                    }
+                }
+
+                httpGet(url, received);
+
+            }
+            
+            function get_shops(type) {
+
+                var url = "http://localhost:5000/get_shops?type=" + type;
+                function received(answer) {
+
+                    var obj = JSON.parse(answer);
+                    
+                    for (i = 0; i < obj.length; i++) {
+                        eval(obj[i]);
+                        
+                    }
+                }
+
+                httpGet(url, received);
+
+            }
+            
+            function httpGet(theUrl, callback) {
+
+                var xmlHttp = new XMLHttpRequest();
+                xmlHttp.onreadystatechange = function() {
+                    if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+                        callback(xmlHttp.responseText);
+                        
+                };
+                xmlHttp.open("GET", theUrl, true);
+                xmlHttp.send(null);
+
+            }
+
+            
+            -->
+        </script>
+    </head>
+    <body onload="main();">
+        <!-- Kommentar -->
+        <div id="map"></div>
+        <div id="infobox">
+            <div id="traveldata" style="position:relative;left:0px;top:0px;width:100%;height:100%;overflow-y:auto;">
+                
+            </div>
+                <div id="passengerbox"></div>
+        </div>
+    </body>
+</html>
