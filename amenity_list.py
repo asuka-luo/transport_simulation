@@ -1,7 +1,7 @@
 """
 Created on Fri Dec 16 23:01:13 2016
 
-@author: denglu_wzz
+@author: Asuka
 """
 
 import osmium as o
